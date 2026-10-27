@@ -1,0 +1,344 @@
+{
+  "generated_at": "2026-10-26 16:59:58",
+  "version": "v5",
+  "images": [
+    {
+      "file": "01-风险分析对象列表-v5.jpg",
+      "sha256": "bf6bee3e4b85b8b5",
+      "bytes": 219371,
+      "raw": "01-风险分析对象列表.png",
+      "ops": [
+        "crop",
+        "mask",
+        "mask",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "page_id": "风险分析对象列表",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "险分 / 搜索 / 机制运行效果 / 安全风险清单"
+    },
+    {
+      "file": "02-风险分析对象新增-v5.jpg",
+      "sha256": "76dc04f7b529aac5",
+      "bytes": 182383,
+      "raw": "02-风险分析对象新增.png",
+      "ops": [
+        "crop",
+        "mask",
+        "mask",
+        "box",
+        "label",
+        "arrow",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "page_id": "风险分析对象新增",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "园区通知 / 机制运行效果"
+    },
+    {
+      "file": "03-风险分析单元新增-v5.jpg",
+      "sha256": "eb14934e2cbba7ab",
+      "bytes": 162154,
+      "raw": "03-风险分析单元新增.png",
+      "ops": [
+        "crop",
+        "mask",
+        "mask",
+        "box",
+        "label",
+        "arrow",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "page_id": "风险分析单元新增",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "机制运行效果X / 安全风险清单"
+    },
+    {
+      "file": "04-风险分析单元停用-v5.jpg",
+      "sha256": "b8c76958a1ca4b69",
+      "bytes": 147822,
+      "raw": "04-风险分析单元停用.png",
+      "ops": [
+        "crop",
+        "mask",
+        "mask",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "frame_evidence": {
+        "method": "stable_frame.py 连拍+平台期+状态断言",
+        "video": "双预防（上）.mp4",
+        "time": "00:11:40",
+        "plateau_frames": 24,
+        "plateau_mean_diff": 0.052,
+        "state_assert_white_share": 0.581,
+        "state_assert_passed": true
+      },
+      "page_id": "风险分析单元停用",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "机制运行效果X / 安全风险清单"
+    },
+    {
+      "file": "05-管控措施分类-v5.jpg",
+      "sha256": "8f6323bab830b8a3",
+      "bytes": 186829,
+      "raw": "05-管控措施分类.png",
+      "ops": [
+        "crop",
+        "mask",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "page_id": "管控措施分类",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "搜索 / 机制运行效果 / 安全风险清单"
+    },
+    {
+      "file": "06-排查库-v5.jpg",
+      "sha256": "26ba963c13ecd924",
+      "bytes": 127975,
+      "raw": "06-排查库.png",
+      "ops": [
+        "crop",
+        "mask",
+        "box",
+        "label",
+        "arrow",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "page_id": "排查库",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "机制运行效果 / 安全风险清单"
+    },
+    {
+      "file": "08-巡检点新增-v5.jpg",
+      "sha256": "2f78d9634cbf7ab6",
+      "bytes": 161485,
+      "raw": "08-巡检点新增.png",
+      "ops": [
+        "crop",
+        "mask",
+        "box",
+        "label",
+        "arrow",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "page_id": "巡检点新增",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "机制运行效果 / 安全风险清单"
+    },
+    {
+      "file": "09-巡检计划模板-v5.jpg",
+      "sha256": "5cffb4a295902fe9",
+      "bytes": 282509,
+      "raw": "09-巡检计划模板.png",
+      "ops": [
+        "crop",
+        "box",
+        "label",
+        "arrow",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "page_id": "巡检计划模板",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "三文件同 / 开始 / 插入 / 页面"
+    },
+    {
+      "file": "10-奖惩绩效列表-v5.jpg",
+      "sha256": "113e6c552a273594",
+      "bytes": 206599,
+      "raw": "10-奖惩绩效列表.png",
+      "ops": [
+        "crop",
+        "mask",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "page_id": "奖惩绩效列表",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "搜索 / 安全生产责任制 / 机制运行效果"
+    },
+    {
+      "file": "11-隐患治理列表-v5.jpg",
+      "sha256": "8e2b3a03053135ed",
+      "bytes": 232761,
+      "raw": "11-隐患治理列表.png",
+      "ops": [
+        "crop",
+        "mask",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:38",
+      "page_id": "隐患治理列表",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "搜索 / 安全生产责任制 / 风险分析对象 / 分级管控清单"
+    },
+    {
+      "file": "12-隐患登记-v5.jpg",
+      "sha256": "54b0d0b5092866de",
+      "bytes": 179105,
+      "raw": "12-隐患登记.png",
+      "ops": [
+        "crop",
+        "mask",
+        "box",
+        "label",
+        "arrow",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:39",
+      "page_id": "隐患登记",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "安全生产责任制 / 风险分析对象 / 分级管控清单 / 管控措施分类"
+    },
+    {
+      "file": "13-隐患治理配置-v5.jpg",
+      "sha256": "0e1a10683ca6ba3c",
+      "bytes": 191138,
+      "raw": "13-隐患治理配置.png",
+      "ops": [
+        "crop",
+        "mask",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:39",
+      "page_id": "隐患治理配置",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "安全生产责任制 / 风险分析对象 / 分级管控清单"
+    },
+    {
+      "file": "15-检查任务-v5.jpg",
+      "sha256": "bc85d4793f0e802f",
+      "bytes": 140421,
+      "raw": "15-检查任务.png",
+      "ops": [
+        "crop",
+        "mask",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:39",
+      "page_id": "检查任务",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "操作成功 / 搜索 / 安全生产责任制 / 措施分类"
+    },
+    {
+      "file": "16-排查库分类-v5.jpg",
+      "sha256": "b0dc9873380da5a5",
+      "bytes": 122379,
+      "raw": "16-排查库分类.png",
+      "ops": [
+        "crop",
+        "mask",
+        "box",
+        "label",
+        "arrow"
+      ],
+      "generated_at": "2026-10-26 16:59:39",
+      "page_id": "排查库分类",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "搜索 / 安全生产信息 / 机制运行效果"
+    },
+    {
+      "file": "17-风险安全清单-v5.jpg",
+      "sha256": "31529d9f144deeb9",
+      "bytes": 166054,
+      "raw": "17-风险安全清单.png",
+      "ops": [
+        "crop",
+        "mask"
+      ],
+      "generated_at": "2026-10-26 16:59:39",
+      "page_id": "风险安全清单",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "安全 / 搜索 / 机制运行效果 / 园区通知"
+    },
+    {
+      "file": "18-分级管控清单-v5.jpg",
+      "sha256": "93da9e227df85ee3",
+      "bytes": 237621,
+      "raw": "18-分级管控清单.png",
+      "ops": [
+        "crop",
+        "mask"
+      ],
+      "generated_at": "2026-10-26 16:59:39",
+      "page_id": "分级管控清单",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "安全生产责任制 / 机制运行效果"
+    },
+    {
+      "file": "19-风险四色图-v5.jpg",
+      "sha256": "73f8debbe5cc5df8",
+      "bytes": 102768,
+      "raw": "19-风险四色图.png",
+      "ops": [
+        "crop",
+        "mask"
+      ],
+      "generated_at": "2026-10-26 16:59:39",
+      "page_id": "风险四色图",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "风险四色图 / 安全生产信息 / 机制运行效果"
+    },
+    {
+      "file": "20-巡检计划-v5.jpg",
+      "sha256": "431eb8159bfd6c13",
+      "bytes": 231125,
+      "raw": "20-巡检计划.png",
+      "ops": [
+        "crop",
+        "mask"
+      ],
+      "generated_at": "2026-10-26 16:59:39",
+      "page_id": "巡检计划",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "机制运行效果 / 安全风险清单"
+    },
+    {
+      "file": "21-奖惩规则配置-v5.jpg",
+      "sha256": "d1b9593437983795",
+      "bytes": 135845,
+      "raw": "21-奖惩规则配置.png",
+      "ops": [
+        "crop",
+        "mask"
+      ],
+      "generated_at": "2026-10-26 16:59:39",
+      "page_id": "奖惩规则配置",
+      "page_id_source": "filename+ocr",
+      "ocr_text": "安全生产责任 / 机制运行效果"
+    }
+  ]
+}

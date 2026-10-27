@@ -1,0 +1,11 @@
+interface:
+  display_name: "Claude Watch"
+  short_description: "Videos to notes, product guides, or customer manuals with verified screenshots"
+  default_prompt: "Use $claude-watch to turn this video into notes, a product guide, or a customer manual."
+compatibility:
+  canonical_format: "agent-skills"
+  adapter_targets: ["claude", "openai", "generic"]
+  activation: {mode: "explicit"}
+  execution: {context: "inline", shell: "bash"}
+  trust: {source_tier: "local", remote_inline_execution: "forbid", remote_metadata_policy: "ignore"}
+  degradation: {claude: "full", openai: "full", generic: "full"}
